@@ -8,8 +8,8 @@ setup(
     version="0.0.1",
     license="Apache",
     description="A library for simple raw text NLP tasks",
-    author="Elliot Reynolds
-    url="https://github.com/user/e-reyno
+    author="Elliot Reynolds"
+    url="https://github.com/user/e-reyno"
     keywords=["nlp", "natural-language-processing", "sentiment-analysis"],
     classifiers=[
         "Development Status :: 4 - Beta",
